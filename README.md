@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Rendbagoez93
-- 👀 I’m interested in Python, HTML, CSS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Python, HTML, CSS, and SQL
+- 🌱 I’m currently learning Python, SQL, and Database
+
 
 <!---
 Rendbagoez93/Rendbagoez93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
