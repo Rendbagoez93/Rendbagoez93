@@ -1,7 +1,32 @@
-- 👋 Hi, I’m @Rendbagoez93
-- 👀 I’m interested in Python, HTML, CSS, and SQL
-- 🌱 I’m currently learning Python, SQL, and Database
+# Hi there, I'm Rendy Bagoez
 
+**Junior Developer | Lifelong Learner**
+
+I'm currently learning and building projects to improve my skills in Python, HTML, CSS, jQuery, and Databases.  
+I enjoy solving problems, experimenting with new technologies, and growing step by step as a developer.
+
+---
+
+### Tech Stack I'm Learning
+- Languages: Python, HTML, CSS, JavaScript (jQuery)
+- Databases: MySQL, SQLite, PostgreSQL (exploring)
+- Framework: Django, Flutter
+- Tools & Platforms: Git, GitHub, VS Code
+
+---
+
+### Goals for 2025
+- Build small projects to strengthen my understanding of Python and Web Development  
+- Improve database design and query optimization  
+- Contribute to open-source projects and collaborate with other developers  
+
+---
+
+### Connect with Me
+- GitHub: https://github.com/Rendbagoez93/Rendbagoez93
+---
+
+I believe in learning by doing — each project, no matter how small, is a step forward!
 
 <!---
 Rendbagoez93/Rendbagoez93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
