@@ -24,6 +24,7 @@ I enjoy solving problems, experimenting with new technologies, and growing step 
 
 ### Connect with Me
 - GitHub: https://github.com/Rendbagoez93/Rendbagoez93
+- LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxVPFibLRQv29H%2FvdPJrL0Q%3D%3D
 ---
 
 I believe in learning by doing — each project, no matter how small, is a step forward!
