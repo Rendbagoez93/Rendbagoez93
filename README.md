@@ -8,7 +8,7 @@ I enjoy solving problems, experimenting with new technologies, and growing step 
 ---
 
 ### Tech Stack I'm Learning
-- Languages: Python, HTML, CSS, JavaScript (jQuery)
+- Languages: Python, HTML, CSS, Java, JavaScript (jQuery)
 - Databases: MySQL, SQLite, PostgreSQL (exploring)
 - Framework: Django, Flutter
 - Tools & Platforms: Git, GitHub, VS Code
