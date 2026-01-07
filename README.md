@@ -8,14 +8,14 @@ I enjoy solving problems, experimenting with new technologies, and growing step 
 ---
 
 ### Tech Stack I'm Learning
-- Languages: Python, HTML, CSS, Java, JavaScript (jQuery)
+- Languages: Python, HTML, CSS, JavaScript, NodeJS
 - Databases: MySQL, SQLite, PostgreSQL (exploring)
-- Framework: Django, Flutter
+- Framework: Django, Flask, ExpressJS
 - Tools & Platforms: Git, GitHub, VS Code
 
 ---
 
-### Goals for 2025
+### Goals for 2026
 - Build small projects to strengthen my understanding of Python and Web Development  
 - Improve database design and query optimization  
 - Contribute to open-source projects and collaborate with other developers  
