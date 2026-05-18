@@ -1,24 +1,23 @@
 # Hi there, I'm Rendy Bagoez
 
-**Junior Developer | Lifelong Learner**
+**Web Developer — Python / Django**
 
-I'm currently learning and building projects to improve my skills in Python, HTML, CSS, jQuery, and Databases.  
-I enjoy solving problems, experimenting with new technologies, and growing step by step as a developer.
-
----
-
-### Tech Stack I'm Learning
-- Languages: Python, HTML, CSS, JavaScript, NodeJS
-- Databases: MySQL, SQLite, PostgreSQL (exploring)
-- Framework: Django, Flask, ExpressJS
-- Tools & Platforms: Git, GitHub, VS Code
+I build data-driven web applications and RESTful APIs with a focus on clean architecture and scalable systems. Currently shipping real-world projects including a SaaS platform for Umroh management with GPS tracking, an HR management system, and a school ERP — all built with Django and PostgreSQL.
+Previously spent 4 years in Finance and General Affairs, which gives me a practical understanding of the HR, operational, and financial workflows I now build software for.
 
 ---
 
-### Goals for 2026
-- Build small projects to strengthen my understanding of Python and Web Development  
-- Improve database design and query optimization  
-- Contribute to open-source projects and collaborate with other developers  
+Tech Stack:
+Primary: Python, Django, Django REST Framework
+Databases: PostgreSQL, MySQL
+Integrations: Firebase Realtime Database, Google Sheets API, REST APIs
+Mobile Collaboration: Kotlin (Android) API consumer
+Tools: Git, GitHub, VS Code
+
+Currently Building:
+🕌 namara.id — SaaS platform for Umroh operators with real-time GPS pilgrim tracking
+🏢 HR-MS — Modular HR management system with RBAC, payroll & attendance modules in progress
+🏫 School ERP — Academic management system with scheduling and grade tracking
 
 ---
 
