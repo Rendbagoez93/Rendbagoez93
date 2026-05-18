@@ -15,9 +15,9 @@ Mobile Collaboration: Kotlin (Android) API consumer
 Tools: Git, GitHub, VS Code
 
 Currently Building:
-🕌 namara.id — SaaS platform for Umroh operators with real-time GPS pilgrim tracking
-🏢 HR-MS — Modular HR management system with RBAC, payroll & attendance modules in progress
-🏫 School ERP — Academic management system with scheduling and grade tracking
+namara.id — SaaS platform for Umroh operators with real-time GPS pilgrim tracking
+Nexus — Modular HR management system with RBAC, payroll & attendance modules in progress
+School ERP — Academic management system with scheduling and grade tracking
 
 ---
 
