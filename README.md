@@ -1,4 +1,4 @@
-# Hi there, I'm Rendy Bagoez
+# Hi there, I'm Rendy Herdianto
 
 **Web Developer — Python / Django**
 
